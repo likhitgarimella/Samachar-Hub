@@ -924,7 +924,7 @@
             </objects>
             <point key="canvasLocation" x="1313.0434782608697" y="-1242.3913043478262"/>
         </scene>
-        <!--Aa View Controller-->
+        <!--होम-->
         <scene sceneID="7rp-H1-XA3">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="7tE-8L-20k" customClass="AaViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
@@ -934,7 +934,7 @@
                         <viewLayoutGuide key="safeArea" id="q0z-Sd-Uul"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <navigationItem key="navigationItem" id="D8w-rA-4WY"/>
+                    <navigationItem key="navigationItem" title="होम" id="D8w-rA-4WY"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dDx-2B-l3O" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
@@ -1278,7 +1278,7 @@
             </objects>
             <point key="canvasLocation" x="405.79710144927537" y="2988.5869565217395"/>
         </scene>
-        <!--Bb View Controller-->
+        <!--इंडिया-->
         <scene sceneID="Its-BE-SeE">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="7wE-ln-rEJ" customClass="BbViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
@@ -1288,13 +1288,13 @@
                         <viewLayoutGuide key="safeArea" id="icu-jW-21m"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <navigationItem key="navigationItem" id="Tbb-tm-ctC"/>
+                    <navigationItem key="navigationItem" title="इंडिया" id="Tbb-tm-ctC"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="0aD-hq-Ulg" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="3117" y="-1242"/>
         </scene>
-        <!--Cc View Controller-->
+        <!--विश्व-->
         <scene sceneID="ObF-Bo-oa5">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="cF9-9e-gZZ" customClass="CcViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
@@ -1304,13 +1304,13 @@
                         <viewLayoutGuide key="safeArea" id="E40-yk-Soj"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <navigationItem key="navigationItem" id="IfC-NL-19e"/>
+                    <navigationItem key="navigationItem" title="विश्व" id="IfC-NL-19e"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="zcD-K8-7Ka" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="3826" y="-1242"/>
         </scene>
-        <!--Dd View Controller-->
+        <!--अजब गज़ब-->
         <scene sceneID="0Hk-xa-Vp5">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="hh4-aQ-6R0" customClass="DdViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
@@ -1320,13 +1320,13 @@
                         <viewLayoutGuide key="safeArea" id="llK-8Q-BEL"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <navigationItem key="navigationItem" id="uLi-Bf-72r"/>
+                    <navigationItem key="navigationItem" title="अजब गज़ब" id="uLi-Bf-72r"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="URE-Ri-hfb" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="4530" y="-1242"/>
         </scene>
-        <!--Ee View Controller-->
+        <!--फोटो गैलरी-->
         <scene sceneID="U1u-nE-VEk">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="3nB-Ph-erb" customClass="EeViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
@@ -1336,13 +1336,13 @@
                         <viewLayoutGuide key="safeArea" id="VfX-Td-79T"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <navigationItem key="navigationItem" id="AkB-26-dOd"/>
+                    <navigationItem key="navigationItem" title="फोटो गैलरी" id="AkB-26-dOd"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="h01-gg-Kfz" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="5239" y="-1242"/>
         </scene>
-        <!--Ff View Controller-->
+        <!--वीडियो-->
         <scene sceneID="ux2-df-a0h">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="Kwl-Cg-1pM" customClass="FfViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
@@ -1352,13 +1352,13 @@
                         <viewLayoutGuide key="safeArea" id="j9E-fH-dq6"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <navigationItem key="navigationItem" id="t9f-PM-eLL"/>
+                    <navigationItem key="navigationItem" title="वीडियो" id="t9f-PM-eLL"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="JBH-qV-mwt" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="5961" y="-1242"/>
         </scene>
-        <!--Gg View Controller-->
+        <!--अन्यान्य-->
         <scene sceneID="gZz-lV-0RN">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="CT8-R9-wXp" customClass="GgViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
@@ -1368,13 +1368,13 @@
                         <viewLayoutGuide key="safeArea" id="E0f-eh-SbK"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <navigationItem key="navigationItem" id="bIM-MT-WI0"/>
+                    <navigationItem key="navigationItem" title="अन्यान्य" id="bIM-MT-WI0"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="yJc-fp-IQv" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="6683" y="-1242"/>
         </scene>
-        <!--Hh View Controller-->
+        <!--स्वास्थ्य-->
         <scene sceneID="T9H-YQ-txh">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="5om-Li-ieb" customClass="HhViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
@@ -1384,13 +1384,13 @@
                         <viewLayoutGuide key="safeArea" id="sQM-Z6-dx5"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <navigationItem key="navigationItem" id="frT-F7-M91"/>
+                    <navigationItem key="navigationItem" title="स्वास्थ्य" id="frT-F7-M91"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="vzN-sa-ICR" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="2406" y="-214"/>
         </scene>
-        <!--Ii View Controller-->
+        <!--जीवन शैली-->
         <scene sceneID="9fy-un-jDp">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="KFb-vt-sde" customClass="IiViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
@@ -1400,13 +1400,13 @@
                         <viewLayoutGuide key="safeArea" id="Smt-g5-bDz"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <navigationItem key="navigationItem" id="SWm-SD-9UJ"/>
+                    <navigationItem key="navigationItem" title="जीवन शैली" id="SWm-SD-9UJ"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="hMF-Vc-dhd" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="3116" y="-214"/>
         </scene>
-        <!--Jj View Controller-->
+        <!--यात्रा-->
         <scene sceneID="JEA-XL-qIw">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="Gbx-3u-1NU" customClass="JjViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
@@ -1416,13 +1416,13 @@
                         <viewLayoutGuide key="safeArea" id="piq-hS-qCo"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <navigationItem key="navigationItem" id="6nS-aS-jSb"/>
+                    <navigationItem key="navigationItem" title="यात्रा" id="6nS-aS-jSb"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="TZg-t8-oKP" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="3825" y="-214"/>
         </scene>
-        <!--Kk View Controller-->
+        <!--खाना खज़ाना-->
         <scene sceneID="xdI-eL-nVx">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="MFe-Wh-hKT" customClass="KkViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
@@ -1432,13 +1432,13 @@
                         <viewLayoutGuide key="safeArea" id="QC3-P4-RNB"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <navigationItem key="navigationItem" id="S7U-im-1Cd"/>
+                    <navigationItem key="navigationItem" title="खाना खज़ाना" id="S7U-im-1Cd"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="OI0-1E-2PV" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="4529" y="-214"/>
         </scene>
-        <!--Ll View Controller-->
+        <!--टेक्नोलॉजी-->
         <scene sceneID="09s-kb-N95">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="zWm-xu-voq" customClass="LlViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
@@ -1448,13 +1448,13 @@
                         <viewLayoutGuide key="safeArea" id="KFu-3e-2i5"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <navigationItem key="navigationItem" id="2jt-w9-4u7"/>
+                    <navigationItem key="navigationItem" title="टेक्नोलॉजी" id="2jt-w9-4u7"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="mc4-3z-L51" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="2406" y="876"/>
         </scene>
-        <!--Mm View Controller-->
+        <!--ऑटोमोबाइल-->
         <scene sceneID="BDh-90-HfF">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="ywD-Da-mrs" customClass="MmViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
@@ -1464,13 +1464,13 @@
                         <viewLayoutGuide key="safeArea" id="gKJ-5y-ZRI"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <navigationItem key="navigationItem" id="Aew-5U-Nf5"/>
+                    <navigationItem key="navigationItem" title="ऑटोमोबाइल" id="Aew-5U-Nf5"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="exf-pd-1yc" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="3116" y="876"/>
         </scene>
-        <!--Nn View Controller-->
+        <!--जीवनी-->
         <scene sceneID="UgM-5f-5I0">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="0Bm-D8-0g6" customClass="NnViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
@@ -1480,13 +1480,13 @@
                         <viewLayoutGuide key="safeArea" id="Fd9-aa-at7"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <navigationItem key="navigationItem" id="JSK-fS-CVw"/>
+                    <navigationItem key="navigationItem" title="जीवनी" id="JSK-fS-CVw"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="5XI-oe-4zb" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="3825" y="876"/>
         </scene>
-        <!--Oo View Controller-->
+        <!--अर्थशास्त्र-->
         <scene sceneID="hH2-xQ-Ydp">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="ngq-u0-5fD" customClass="OoViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
@@ -1496,13 +1496,13 @@
                         <viewLayoutGuide key="safeArea" id="66K-Ft-OCl"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <navigationItem key="navigationItem" id="awP-sq-fOK"/>
+                    <navigationItem key="navigationItem" title="अर्थशास्त्र" id="awP-sq-fOK"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="RM1-GT-jjc" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="2406" y="1943"/>
         </scene>
-        <!--Pp View Controller-->
+        <!--प्रॉपर्टी-->
         <scene sceneID="Pcu-F3-DzZ">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="upa-b4-1c6" customClass="PpViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
@@ -1512,13 +1512,13 @@
                         <viewLayoutGuide key="safeArea" id="uHB-AE-3SY"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <navigationItem key="navigationItem" id="ayo-1b-Yll"/>
+                    <navigationItem key="navigationItem" title="प्रॉपर्टी" id="ayo-1b-Yll"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="5y1-Ag-7F9" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="3116" y="1943"/>
         </scene>
-        <!--Qq View Controller-->
+        <!--शिक्षा-->
         <scene sceneID="HtC-Hy-43q">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="xwN-qc-nXT" customClass="QqViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
@@ -1528,13 +1528,13 @@
                         <viewLayoutGuide key="safeArea" id="448-FB-sXO"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <navigationItem key="navigationItem" id="4Zk-ok-MWf"/>
+                    <navigationItem key="navigationItem" title="शिक्षा" id="4Zk-ok-MWf"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ROJ-Lf-SqO" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="3825" y="1943"/>
         </scene>
-        <!--Rr View Controller-->
+        <!--नौकरियां-->
         <scene sceneID="1T8-Eu-Lo7">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="Xio-b6-Sau" customClass="RrViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
@@ -1544,13 +1544,13 @@
                         <viewLayoutGuide key="safeArea" id="n4t-d8-EKj"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <navigationItem key="navigationItem" id="m2J-Cb-khx"/>
+                    <navigationItem key="navigationItem" title="नौकरियां" id="m2J-Cb-khx"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="TdP-5R-DkL" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="4529" y="1943"/>
         </scene>
-        <!--Ss View Controller-->
+        <!--खेल-->
         <scene sceneID="AEm-K0-17p">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="wUH-On-kTg" customClass="SsViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
@@ -1560,13 +1560,13 @@
                         <viewLayoutGuide key="safeArea" id="4WK-wz-bEg"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <navigationItem key="navigationItem" id="1av-SM-bM0"/>
+                    <navigationItem key="navigationItem" title="खेल" id="1av-SM-bM0"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="FDo-hY-K70" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="2406" y="2989"/>
         </scene>
-        <!--Tt View Controller-->
+        <!--मनोरंजन-->
         <scene sceneID="Ypm-VP-mAY">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="d44-MK-D8J" customClass="TtViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
@@ -1576,13 +1576,13 @@
                         <viewLayoutGuide key="safeArea" id="1fN-gI-Ux0"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <navigationItem key="navigationItem" id="v5c-bD-lRk"/>
+                    <navigationItem key="navigationItem" title="मनोरंजन" id="v5c-bD-lRk"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="LJo-x4-dzr" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="3116" y="2989"/>
         </scene>
-        <!--Uu View Controller-->
+        <!--ज्योतिष-->
         <scene sceneID="mez-zz-gkQ">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="MbT-mz-idD" customClass="UuViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
@@ -1592,13 +1592,13 @@
                         <viewLayoutGuide key="safeArea" id="mvQ-Fo-MlR"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <navigationItem key="navigationItem" id="2Ve-To-zep"/>
+                    <navigationItem key="navigationItem" title="ज्योतिष" id="2Ve-To-zep"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="oC5-0O-JQu" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="3825" y="2989"/>
         </scene>
-        <!--Vv View Controller-->
+        <!--पर्यावरण-->
         <scene sceneID="rej-0a-Z50">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="Nto-jH-5af" customClass="VvViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
@@ -1608,13 +1608,13 @@
                         <viewLayoutGuide key="safeArea" id="ymo-Wd-yyM"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <navigationItem key="navigationItem" id="1qA-kz-9Pe"/>
+                    <navigationItem key="navigationItem" title="पर्यावरण" id="1qA-kz-9Pe"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="SdB-GK-a1D" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="4529" y="2989"/>
         </scene>
-        <!--Ww View Controller-->
+        <!--हंसी ठट्टा-->
         <scene sceneID="raK-Jq-fHb">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="tOb-FZ-LdI" customClass="WwViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
@@ -1624,13 +1624,13 @@
                         <viewLayoutGuide key="safeArea" id="Cpk-fY-wde"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <navigationItem key="navigationItem" id="44w-g6-d7P"/>
+                    <navigationItem key="navigationItem" title="हंसी ठट्टा" id="44w-g6-d7P"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="flE-yv-0O6" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="5238" y="2989"/>
         </scene>
-        <!--Xx View Controller-->
+        <!--कहानियां-->
         <scene sceneID="MkR-4p-Lth">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="7aK-PJ-Knh" customClass="XxViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
@@ -1640,13 +1640,13 @@
                         <viewLayoutGuide key="safeArea" id="17z-7Z-rYb"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <navigationItem key="navigationItem" id="kd8-OP-W4m"/>
+                    <navigationItem key="navigationItem" title="कहानियां" id="kd8-OP-W4m"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ABe-36-4HT" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="5961" y="2989"/>
         </scene>
-        <!--Yy View Controller-->
+        <!--कविताओं-->
         <scene sceneID="adf-iG-Lwm">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="AVm-xV-oFl" customClass="YyViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
@@ -1656,13 +1656,13 @@
                         <viewLayoutGuide key="safeArea" id="XtE-Ub-kTd"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <navigationItem key="navigationItem" id="WbD-bE-btf"/>
+                    <navigationItem key="navigationItem" title="कविताओं" id="WbD-bE-btf"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="96e-nm-Eaj" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="6683" y="2989"/>
         </scene>
-        <!--Zz View Controller-->
+        <!--उद्धरण-->
         <scene sceneID="OU5-dr-Jjs">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="1Bc-kp-KDr" customClass="ZzViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
@@ -1672,7 +1672,7 @@
                         <viewLayoutGuide key="safeArea" id="AVx-BT-2q9"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <navigationItem key="navigationItem" id="a5r-lV-qs5"/>
+                    <navigationItem key="navigationItem" title="उद्धरण" id="a5r-lV-qs5"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Wvu-IU-qdh" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
