@@ -1,8 +1,8 @@
 //
 //  EeViewController.swift
-//  NewsViewsNetwork
+//  Samachar Hub
 //
-//  Created by Likhit Garimella on 30/04/21.
+//  Created by Likhit Garimella on 12/05/21.
 //
 
 import UIKit
