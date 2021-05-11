@@ -87,6 +87,67 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		024ABABE264B2579001CACB7 /* News */ = {
+			isa = PBXGroup;
+			children = (
+				024ABA8C264B2526001CACB7 /* AaViewController.swift */,
+				024ABA92264B2526001CACB7 /* BbViewController.swift */,
+				024ABAA2264B2527001CACB7 /* CcViewController.swift */,
+				024ABAA3264B2527001CACB7 /* DdViewController.swift */,
+				024ABA9E264B2527001CACB7 /* EeViewController.swift */,
+				024ABA94264B2526001CACB7 /* FfViewController.swift */,
+				024ABAA0264B2527001CACB7 /* GgViewController.swift */,
+			);
+			path = News;
+			sourceTree = "<group>";
+		};
+		024ABABF264B2591001CACB7 /* Wellness */ = {
+			isa = PBXGroup;
+			children = (
+				024ABA98264B2526001CACB7 /* HhViewController.swift */,
+				024ABA8B264B2526001CACB7 /* IiViewController.swift */,
+				024ABA9F264B2527001CACB7 /* JjViewController.swift */,
+				024ABA97264B2526001CACB7 /* KkViewController.swift */,
+			);
+			path = Wellness;
+			sourceTree = "<group>";
+		};
+		024ABAC0264B25A0001CACB7 /* Innovation */ = {
+			isa = PBXGroup;
+			children = (
+				024ABA8D264B2526001CACB7 /* LlViewController.swift */,
+				024ABA96264B2526001CACB7 /* MmViewController.swift */,
+				024ABA90264B2526001CACB7 /* NnViewController.swift */,
+			);
+			path = Innovation;
+			sourceTree = "<group>";
+		};
+		024ABAC1264B25AE001CACB7 /* Money */ = {
+			isa = PBXGroup;
+			children = (
+				024ABA8F264B2526001CACB7 /* OoViewController.swift */,
+				024ABA93264B2526001CACB7 /* PpViewController.swift */,
+				024ABAA1264B2527001CACB7 /* QqViewController.swift */,
+				024ABA8A264B2526001CACB7 /* RrViewController.swift */,
+			);
+			path = Money;
+			sourceTree = "<group>";
+		};
+		024ABAC2264B25B8001CACB7 /* Leisure */ = {
+			isa = PBXGroup;
+			children = (
+				024ABA9A264B2527001CACB7 /* SsViewController.swift */,
+				024ABA8E264B2526001CACB7 /* TtViewController.swift */,
+				024ABA9D264B2527001CACB7 /* UuViewController.swift */,
+				024ABA9C264B2527001CACB7 /* VvViewController.swift */,
+				024ABA91264B2526001CACB7 /* WwViewController.swift */,
+				024ABA95264B2526001CACB7 /* XxViewController.swift */,
+				024ABA9B264B2527001CACB7 /* YyViewController.swift */,
+				024ABA99264B2527001CACB7 /* ZzViewController.swift */,
+			);
+			path = Leisure;
+			sourceTree = "<group>";
+		};
 		02B5605326486189003B2D11 = {
 			isa = PBXGroup;
 			children = (
@@ -111,32 +172,11 @@
 				02B560682648618A003B2D11 /* Assets.xcassets */,
 				02B5606A2648618A003B2D11 /* LaunchScreen.storyboard */,
 				02B5606526486189003B2D11 /* Main.storyboard */,
-				024ABA8C264B2526001CACB7 /* AaViewController.swift */,
-				024ABA92264B2526001CACB7 /* BbViewController.swift */,
-				024ABAA2264B2527001CACB7 /* CcViewController.swift */,
-				024ABAA3264B2527001CACB7 /* DdViewController.swift */,
-				024ABA9E264B2527001CACB7 /* EeViewController.swift */,
-				024ABA94264B2526001CACB7 /* FfViewController.swift */,
-				024ABAA0264B2527001CACB7 /* GgViewController.swift */,
-				024ABA98264B2526001CACB7 /* HhViewController.swift */,
-				024ABA8B264B2526001CACB7 /* IiViewController.swift */,
-				024ABA9F264B2527001CACB7 /* JjViewController.swift */,
-				024ABA97264B2526001CACB7 /* KkViewController.swift */,
-				024ABA8D264B2526001CACB7 /* LlViewController.swift */,
-				024ABA96264B2526001CACB7 /* MmViewController.swift */,
-				024ABA90264B2526001CACB7 /* NnViewController.swift */,
-				024ABA8F264B2526001CACB7 /* OoViewController.swift */,
-				024ABA93264B2526001CACB7 /* PpViewController.swift */,
-				024ABAA1264B2527001CACB7 /* QqViewController.swift */,
-				024ABA8A264B2526001CACB7 /* RrViewController.swift */,
-				024ABA9A264B2527001CACB7 /* SsViewController.swift */,
-				024ABA8E264B2526001CACB7 /* TtViewController.swift */,
-				024ABA9D264B2527001CACB7 /* UuViewController.swift */,
-				024ABA9C264B2527001CACB7 /* VvViewController.swift */,
-				024ABA91264B2526001CACB7 /* WwViewController.swift */,
-				024ABA95264B2526001CACB7 /* XxViewController.swift */,
-				024ABA9B264B2527001CACB7 /* YyViewController.swift */,
-				024ABA99264B2527001CACB7 /* ZzViewController.swift */,
+				024ABABE264B2579001CACB7 /* News */,
+				024ABABF264B2591001CACB7 /* Wellness */,
+				024ABAC0264B25A0001CACB7 /* Innovation */,
+				024ABAC1264B25AE001CACB7 /* Money */,
+				024ABAC2264B25B8001CACB7 /* Leisure */,
 				02B5606D2648618A003B2D11 /* Info.plist */,
 			);
 			path = "Samachar Hub";
