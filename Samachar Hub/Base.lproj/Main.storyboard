@@ -858,10 +858,10 @@
             </objects>
             <point key="canvasLocation" x="1313.0434782608697" y="-1242.3913043478262"/>
         </scene>
-        <!--View Controller-->
+        <!--Aa View Controller-->
         <scene sceneID="7rp-H1-XA3">
             <objects>
-                <viewController modalPresentationStyle="fullScreen" id="7tE-8L-20k" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="7tE-8L-20k" customClass="AaViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="xqn-QP-hIB">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1199,10 +1199,10 @@
             </objects>
             <point key="canvasLocation" x="405.79710144927537" y="2988.5869565217395"/>
         </scene>
-        <!--View Controller-->
+        <!--Bb View Controller-->
         <scene sceneID="Its-BE-SeE">
             <objects>
-                <viewController modalPresentationStyle="fullScreen" id="7wE-ln-rEJ" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="7wE-ln-rEJ" customClass="BbViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="XuH-eX-mbZ">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1214,10 +1214,10 @@
             </objects>
             <point key="canvasLocation" x="3117" y="-1242"/>
         </scene>
-        <!--View Controller-->
+        <!--Cc View Controller-->
         <scene sceneID="ObF-Bo-oa5">
             <objects>
-                <viewController modalPresentationStyle="fullScreen" id="cF9-9e-gZZ" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="cF9-9e-gZZ" customClass="CcViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="lVf-Ki-6nk">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1229,10 +1229,10 @@
             </objects>
             <point key="canvasLocation" x="3826" y="-1242"/>
         </scene>
-        <!--View Controller-->
+        <!--Dd View Controller-->
         <scene sceneID="0Hk-xa-Vp5">
             <objects>
-                <viewController modalPresentationStyle="fullScreen" id="hh4-aQ-6R0" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="hh4-aQ-6R0" customClass="DdViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Wvl-ip-wzd">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1244,10 +1244,10 @@
             </objects>
             <point key="canvasLocation" x="4530" y="-1242"/>
         </scene>
-        <!--View Controller-->
+        <!--Ee View Controller-->
         <scene sceneID="U1u-nE-VEk">
             <objects>
-                <viewController modalPresentationStyle="fullScreen" id="3nB-Ph-erb" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="3nB-Ph-erb" customClass="EeViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="4Ps-qo-zG1">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1259,10 +1259,10 @@
             </objects>
             <point key="canvasLocation" x="5239" y="-1242"/>
         </scene>
-        <!--View Controller-->
+        <!--Ff View Controller-->
         <scene sceneID="ux2-df-a0h">
             <objects>
-                <viewController modalPresentationStyle="fullScreen" id="Kwl-Cg-1pM" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="Kwl-Cg-1pM" customClass="FfViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="znu-c5-fSZ">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1274,10 +1274,10 @@
             </objects>
             <point key="canvasLocation" x="5961" y="-1242"/>
         </scene>
-        <!--View Controller-->
+        <!--Gg View Controller-->
         <scene sceneID="gZz-lV-0RN">
             <objects>
-                <viewController modalPresentationStyle="fullScreen" id="CT8-R9-wXp" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="CT8-R9-wXp" customClass="GgViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="0Dk-bn-qNT">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1289,10 +1289,10 @@
             </objects>
             <point key="canvasLocation" x="6683" y="-1242"/>
         </scene>
-        <!--View Controller-->
+        <!--Hh View Controller-->
         <scene sceneID="T9H-YQ-txh">
             <objects>
-                <viewController modalPresentationStyle="fullScreen" id="5om-Li-ieb" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="5om-Li-ieb" customClass="HhViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Ufb-1U-mZT">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1304,10 +1304,10 @@
             </objects>
             <point key="canvasLocation" x="2406" y="-214"/>
         </scene>
-        <!--View Controller-->
+        <!--Ii View Controller-->
         <scene sceneID="9fy-un-jDp">
             <objects>
-                <viewController modalPresentationStyle="fullScreen" id="KFb-vt-sde" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="KFb-vt-sde" customClass="IiViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="vsP-JE-AMe">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1319,10 +1319,10 @@
             </objects>
             <point key="canvasLocation" x="3116" y="-214"/>
         </scene>
-        <!--View Controller-->
+        <!--Jj View Controller-->
         <scene sceneID="JEA-XL-qIw">
             <objects>
-                <viewController modalPresentationStyle="fullScreen" id="Gbx-3u-1NU" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="Gbx-3u-1NU" customClass="JjViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="tMu-Oq-hOL">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1334,10 +1334,10 @@
             </objects>
             <point key="canvasLocation" x="3825" y="-214"/>
         </scene>
-        <!--View Controller-->
+        <!--Kk View Controller-->
         <scene sceneID="xdI-eL-nVx">
             <objects>
-                <viewController modalPresentationStyle="fullScreen" id="MFe-Wh-hKT" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="MFe-Wh-hKT" customClass="KkViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="ZL1-dY-H60">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1349,10 +1349,10 @@
             </objects>
             <point key="canvasLocation" x="4529" y="-214"/>
         </scene>
-        <!--View Controller-->
+        <!--Ll View Controller-->
         <scene sceneID="09s-kb-N95">
             <objects>
-                <viewController modalPresentationStyle="fullScreen" id="zWm-xu-voq" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="zWm-xu-voq" customClass="LlViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="gkK-Fj-qvi">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1364,10 +1364,10 @@
             </objects>
             <point key="canvasLocation" x="2406" y="876"/>
         </scene>
-        <!--View Controller-->
+        <!--Mm View Controller-->
         <scene sceneID="BDh-90-HfF">
             <objects>
-                <viewController modalPresentationStyle="fullScreen" id="ywD-Da-mrs" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="ywD-Da-mrs" customClass="MmViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Wmy-BS-LNf">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1379,10 +1379,10 @@
             </objects>
             <point key="canvasLocation" x="3116" y="876"/>
         </scene>
-        <!--View Controller-->
+        <!--Nn View Controller-->
         <scene sceneID="UgM-5f-5I0">
             <objects>
-                <viewController modalPresentationStyle="fullScreen" id="0Bm-D8-0g6" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="0Bm-D8-0g6" customClass="NnViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="pLw-EW-On4">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1394,10 +1394,10 @@
             </objects>
             <point key="canvasLocation" x="3825" y="876"/>
         </scene>
-        <!--View Controller-->
+        <!--Oo View Controller-->
         <scene sceneID="hH2-xQ-Ydp">
             <objects>
-                <viewController modalPresentationStyle="fullScreen" id="ngq-u0-5fD" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="ngq-u0-5fD" customClass="OoViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Exe-uq-Ski">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1409,10 +1409,10 @@
             </objects>
             <point key="canvasLocation" x="2406" y="1943"/>
         </scene>
-        <!--View Controller-->
+        <!--Pp View Controller-->
         <scene sceneID="Pcu-F3-DzZ">
             <objects>
-                <viewController modalPresentationStyle="fullScreen" id="upa-b4-1c6" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="upa-b4-1c6" customClass="PpViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="lTX-Cu-Eo6">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1424,10 +1424,10 @@
             </objects>
             <point key="canvasLocation" x="3116" y="1943"/>
         </scene>
-        <!--View Controller-->
+        <!--Qq View Controller-->
         <scene sceneID="HtC-Hy-43q">
             <objects>
-                <viewController modalPresentationStyle="fullScreen" id="xwN-qc-nXT" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="xwN-qc-nXT" customClass="QqViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="y7t-bh-sT0">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1439,10 +1439,10 @@
             </objects>
             <point key="canvasLocation" x="3825" y="1943"/>
         </scene>
-        <!--View Controller-->
+        <!--Rr View Controller-->
         <scene sceneID="1T8-Eu-Lo7">
             <objects>
-                <viewController modalPresentationStyle="fullScreen" id="Xio-b6-Sau" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="Xio-b6-Sau" customClass="RrViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="flY-aK-uun">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1454,10 +1454,10 @@
             </objects>
             <point key="canvasLocation" x="4529" y="1943"/>
         </scene>
-        <!--View Controller-->
+        <!--Ss View Controller-->
         <scene sceneID="AEm-K0-17p">
             <objects>
-                <viewController modalPresentationStyle="fullScreen" id="wUH-On-kTg" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="wUH-On-kTg" customClass="SsViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="AcV-rY-T4v">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1469,10 +1469,10 @@
             </objects>
             <point key="canvasLocation" x="2406" y="2989"/>
         </scene>
-        <!--View Controller-->
+        <!--Tt View Controller-->
         <scene sceneID="Ypm-VP-mAY">
             <objects>
-                <viewController modalPresentationStyle="fullScreen" id="d44-MK-D8J" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="d44-MK-D8J" customClass="TtViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="atE-O2-PfX">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1484,10 +1484,10 @@
             </objects>
             <point key="canvasLocation" x="3116" y="2989"/>
         </scene>
-        <!--View Controller-->
+        <!--Uu View Controller-->
         <scene sceneID="mez-zz-gkQ">
             <objects>
-                <viewController modalPresentationStyle="fullScreen" id="MbT-mz-idD" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="MbT-mz-idD" customClass="UuViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="OoT-i3-nVH">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1499,10 +1499,10 @@
             </objects>
             <point key="canvasLocation" x="3825" y="2989"/>
         </scene>
-        <!--View Controller-->
+        <!--Vv View Controller-->
         <scene sceneID="rej-0a-Z50">
             <objects>
-                <viewController modalPresentationStyle="fullScreen" id="Nto-jH-5af" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="Nto-jH-5af" customClass="VvViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="cmT-qd-YSL">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1514,10 +1514,10 @@
             </objects>
             <point key="canvasLocation" x="4529" y="2989"/>
         </scene>
-        <!--View Controller-->
+        <!--Ww View Controller-->
         <scene sceneID="raK-Jq-fHb">
             <objects>
-                <viewController modalPresentationStyle="fullScreen" id="tOb-FZ-LdI" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="tOb-FZ-LdI" customClass="WwViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8fJ-KJ-Xfy">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1529,10 +1529,10 @@
             </objects>
             <point key="canvasLocation" x="5238" y="2989"/>
         </scene>
-        <!--View Controller-->
+        <!--Xx View Controller-->
         <scene sceneID="MkR-4p-Lth">
             <objects>
-                <viewController modalPresentationStyle="fullScreen" id="7aK-PJ-Knh" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="7aK-PJ-Knh" customClass="XxViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="G4a-AU-Z6R">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1544,10 +1544,10 @@
             </objects>
             <point key="canvasLocation" x="5961" y="2989"/>
         </scene>
-        <!--View Controller-->
+        <!--Yy View Controller-->
         <scene sceneID="adf-iG-Lwm">
             <objects>
-                <viewController modalPresentationStyle="fullScreen" id="AVm-xV-oFl" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="AVm-xV-oFl" customClass="YyViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="a2F-ug-ALL">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1559,10 +1559,10 @@
             </objects>
             <point key="canvasLocation" x="6683" y="2989"/>
         </scene>
-        <!--View Controller-->
+        <!--Zz View Controller-->
         <scene sceneID="OU5-dr-Jjs">
             <objects>
-                <viewController modalPresentationStyle="fullScreen" id="1Bc-kp-KDr" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="1Bc-kp-KDr" customClass="ZzViewController" customModule="Samachar_Hub" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="zor-NJ-36o">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
